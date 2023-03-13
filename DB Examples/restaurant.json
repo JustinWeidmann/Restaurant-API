@@ -1,0 +1,76 @@
+{
+  "name": "Smash Bros",
+  "chain": false,
+  "address": "5820 S Parker Rd Aurora, CO",
+  "menu": {
+      "Appetizers": [
+          {
+              "name": "Mozzarella Sticks",
+              "description": "Breaded and fried mozzarella served with marinara sauce",
+              "ingredients": ["mozzarella", "flour", "eggs", "breadcrumbs", "marinara sauce"]
+          },
+          {
+              "name": "Loaded Nachos",
+              "description": "Tortilla chips topped with melted cheese, black beans, jalapenos, and sour cream",
+              "ingredients": ["tortilla chips", "cheese", "black beans", "jalapenos", "sour cream"]
+          },
+          {
+              "name": "Fried Pickles",
+              "description": "Breaded and fried pickle slices served with ranch dressing",
+              "ingredients": ["pickles", "flour", "eggs", "breadcrumbs", "ranch dressing"]
+          }
+      ],
+      "Burgers": [
+          {
+              "name": "Classic Burger",
+              "description": "Beef patty with lettuce, tomato, onion, and your choice of condiments, served on a bun",
+              "ingredients": ["beef patty", "lettuce", "tomato", "onion", "bun"]
+          },
+          {
+              "name": "Cheeseburger",
+              "description": "Beef patty with cheese, lettuce, tomato, onion, and your choice of condiments, served on a bun",
+              "ingredients": ["beef patty", "cheese", "lettuce", "tomato", "onion", "bun"]
+          },
+          {
+              "name": "Bacon Cheeseburger",
+              "description": "Beef patty with bacon, cheese, lettuce, tomato, onion, and your choice of condiments, served on a bun",
+              "ingredients": ["beef patty", "bacon", "cheese", "lettuce", "tomato", "onion", "bun"]
+          }
+      ],
+      "Sides": [
+          {
+              "name": "French Fries",
+              "description": "Thinly sliced and fried potatoes",
+              "ingredients": ["potatoes", "oil"]
+          },
+          {
+              "name": "Onion Rings",
+              "description": "Thinly sliced and breaded onion rings, fried until golden brown",
+              "ingredients": ["onion", "flour", "eggs", "breadcrumbs", "oil"]
+          },
+          {
+              "name": "Cole Slaw",
+              "description": "Shredded cabbage and carrots with a mayonnaise dressing",
+              "ingredients": ["cabbage", "carrots", "mayonnaise"]
+          }
+      ],
+      "Desserts": [
+          {
+              "name": "Ice Cream Sundae",
+              "description": "Vanilla ice cream with your choice of toppings and whipped cream",
+              "ingredients": ["ice cream", "toppings", "whipped cream"]
+          }
+      ]
+  },
+  "hours": {
+      "mon": ["09:00:00", "17:00:00"],
+      "tue": ["09:00:00", "17:00:00"],
+      "wed": ["09:00:00", "17:00:00"],
+      "thu": ["09:00:00", "17:00:00"],
+      "fri": ["09:00:00", "17:00:00"],
+      "sat": ["10:00:00", "16:00:00"],
+      "sun": ["12:00:00", "16:00:00"]
+  },
+      "catagories": [""],
+      "cuisene": ["American", "Burger"]
+}
